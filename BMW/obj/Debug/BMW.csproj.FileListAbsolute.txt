@@ -1,0 +1,430 @@
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\bin\Debug\BMW.exe.config
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\bin\Debug\BMW.exe
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\bin\Debug\BMW.pdb
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.AdminPanel.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Giris.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Properties.Resources.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.exe
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.pdb
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.MusteriHizmetleriPanel.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.exe.licenses
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitsil.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitbul.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitekle_guncelle.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitekle_guncelle.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitbul.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitsil.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Servis_durum_kontrol.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Servis_kayitbul.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Servis_detayli_arama.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Arac_satis_kayitbul.resources
+C:\Users\Emre\Documents\GitHub\BMW\BMW\BMW\obj\Debug\BMW.Islem_goster.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\bin\Debug\BMW.exe.config
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.exe
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.pdb
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.AdminPanel.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Arac_satis_kayitbul.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.A_Kullanici.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitbul.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitekle_guncelle.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitsil.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Giris.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Islem_goster.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.MusteriHizmetleriPanel.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitekle_guncelle.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitbul.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitsil.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Properties.Resources.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Servis_detayli_arama.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Servis_durum_kontrol.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Servis_kayitbul.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.exe.licenses
+C:\Users\Emre\Desktop\emre\BMW\BMW\bin\Debug\BMW.exe
+C:\Users\Emre\Desktop\emre\BMW\BMW\bin\Debug\BMW.pdb
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.AracSerileri.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Arac_Model.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Arac_Motor.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.DonanimPaket.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.Il_Ilce.resources
+C:\Users\Emre\Desktop\emre\BMW\BMW\obj\Debug\BMW.YetkiTanimlama.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\bin\Debug\BMW.exe.config
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.exe
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.pdb
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\bin\Debug\BMW.exe
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\bin\Debug\BMW.pdb
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AdminPanel.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracSerileri.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracStok.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Model.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Motor.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Satis.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_satis_kayitbul.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.ASmodel.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.A_Kullanici.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.DonanimPaket.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitbul.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitekle_guncelle.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitsil.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Giris.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Il_Ilce.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Islem_goster.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.MusteriHizmetleriPanel.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitekle_guncelle.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitbul.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitsil.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Parca.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Properties.Resources.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_detayli_arama.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_durum_kontrol.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_Islem.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_kayitbul.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.SV_musform.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.YetkiTanimlama.resources
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\emre vtys son hali\BMW\BMW\obj\Debug\BMW.exe.licenses
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\bin\Debug\BMW.exe.config
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.exe
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.pdb
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\bin\Debug\BMW.exe
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\bin\Debug\BMW.pdb
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AdminPanel.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracSerileri.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracStok.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Model.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Motor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Satis.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_satis_kayitbul.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.ASmodel.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.A_Kullanici.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.DonanimPaket.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitbul.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitekle_guncelle.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitsil.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Giris.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Il_Ilce.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Islem_goster.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.MusteriHizmetleriPanel.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitekle_guncelle.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitbul.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitsil.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Parca.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Properties.Resources.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_detayli_arama.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_durum_kontrol.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_Islem.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_kayitbul.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.SV_musform.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.YetkiTanimlama.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.exe.licenses
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AnaMenü.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracModel_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracSatis_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Aracstok_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.BölümEkle.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Müsteri_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.ParcaStok_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Personel_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Personelİslemleri.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.RAPORLAR.resources
+C:\Users\Emre\Desktop\VTYS PROJE\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_rapor.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\bin\Debug\BMW.exe.config
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.exe
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.pdb
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\bin\Debug\BMW.exe
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\bin\Debug\BMW.pdb
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.csprojResolveAssemblyReference.cache
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AdminPanel.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AnaMenü.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracModel_rapor.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracSatis_rapor.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracSerileri.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracStok.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Aracstok_rapor.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Model.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Motor.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Satis.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_satis_kayitbul.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.ASmodel.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.A_Kullanici.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.BölümEkle.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.DonanimPaket.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitbul.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitekle_guncelle.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitsil.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Giris.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Il_Ilce.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Islem_goster.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.MusteriHizmetleriPanel.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitekle_guncelle.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitbul.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitsil.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Müsteri_rapor.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Parca.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.ParcaStok_rapor.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Personel_rapor.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Personelİslemleri.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Properties.Resources.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.RAPORLAR.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_detayli_arama.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_durum_kontrol.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_Islem.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_kayitbul.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_rapor.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.SV_musform.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.YetkiTanimlama.resources
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.csproj.GenerateResource.Cache
+C:\Users\MertOZEN\Downloads\vtys son hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.exe.licenses
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\bin\Debug\BMW.exe.config
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.exe
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.pdb
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\bin\Debug\BMW.exe
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\bin\Debug\BMW.pdb
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AdminPanel.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AnaMenü.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracModel_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracSatis_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracSerileri.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.AracStok.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Aracstok_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Model.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Motor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_Satis.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Arac_satis_kayitbul.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.ASmodel.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.A_Kullanici.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.BölümEkle.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.DonanimPaket.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitbul.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitekle_guncelle.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitsil.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Giris.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Il_Ilce.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Islem_goster.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.MusteriHizmetleriPanel.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitekle_guncelle.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitbul.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitsil.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Müsteri_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Parca.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.ParcaStok_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Personel_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Personelİslemleri.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Properties.Resources.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.RAPORLAR.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_detayli_arama.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_durum_kontrol.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_Islem.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_kayitbul.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.Servis_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.SV_musform.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.YetkiTanimlama.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.csproj.GenerateResource.Cache
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.exe.licenses
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.csprojResolveAssemblyReference.cache
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\emre vtys son hali\BMW\BMW\obj\Debug\BMW.YetkiKisitla.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.exe.config
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.exe
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.pdb
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.csprojResolveAssemblyReference.cache
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AdminPanel.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AnaMenü.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracModel_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracSatis_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracSerileri.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracStok.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Aracstok_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Model.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Motor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Satis.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_satis_kayitbul.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.ASmodel.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.A_Kullanici.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.BölümEkle.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.DonanimPaket.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitbul.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitekle_guncelle.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitsil.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Giris.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Il_Ilce.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Islem_goster.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.MusteriHizmetleriPanel.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitekle_guncelle.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitbul.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitsil.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Müsteri_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Parca.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.ParcaStok_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Personel_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Personelİslemleri.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Properties.Resources.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.RAPORLAR.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_detayli_arama.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_durum_kontrol.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_Islem.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_kayitbul.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_rapor.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.SV_musform.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.YetkiKisitla.resources
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.csproj.GenerateResource.Cache
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.exe.licenses
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.exe
+D:\Düzce_Üniversitesi\3.sınıf_1.dönem\Veritabanı_ve_Yönetim_Sistemleri\VTYS_Proje\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.pdb
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.exe.config
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.exe
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.pdb
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.exe
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.pdb
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AdminPanel.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AnaMenü.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracSatis_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracSerileri.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracStok.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Aracstok_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Model.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Motor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Satis.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_satis_kayitbul.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.ASmodel.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.A_Kullanici.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.BölümEkle.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.DonanimPaket.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitbul.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitekle_guncelle.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitsil.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Giris.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Il_Ilce.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Islem_goster.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.MusteriHizmetleriPanel.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitekle_guncelle.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitbul.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitsil.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Müsteri_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Parca.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.ParcaStok_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Personel_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Personelİslemleri.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Properties.Resources.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.RAPORLAR.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_detayli_arama.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_durum_kontrol.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_Islem.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_kayitbul.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_rapor.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.SV_musform.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.YetkiKisitla.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.exe.licenses
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Backup.resources
+C:\Users\Emre\Desktop\VTYS PROJE\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracModell_rapor.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.exe.config
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.exe
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.pdb
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.exe
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.pdb
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AdminPanel.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AnaMenü.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracModell_rapor.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracSatis_rapor.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracSerileri.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracStok.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Aracstok_rapor.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Model.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Motor.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Satis.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_satis_kayitbul.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.ASmodel.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.A_Kullanici.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Backup.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.BölümEkle.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.DonanimPaket.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitbul.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitekle_guncelle.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitsil.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Giris.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Il_Ilce.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Islem_goster.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.MusteriHizmetleriPanel.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitekle_guncelle.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitbul.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitsil.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Müsteri_rapor.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Parca.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.ParcaStok_rapor.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Personel_rapor.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Personelİslemleri.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Properties.Resources.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.RAPORLAR.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_detayli_arama.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_durum_kontrol.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_Islem.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_kayitbul.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_rapor.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.SV_musform.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.YetkiKisitla.resources
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\BMW\vtys son hali\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.exe.licenses
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.exe.config
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.exe
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.pdb
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.exe
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\bin\Debug\BMW.pdb
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.csprojResolveAssemblyReference.cache
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AdminPanel.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AnaMenü.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracModell_rapor.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracSatis_rapor.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracSerileri.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.AracStok.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Aracstok_rapor.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Model.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Motor.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_Satis.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Arac_satis_kayitbul.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.ASmodel.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.A_Kullanici.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Backup.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.BölümEkle.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.DonanimPaket.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitbul.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitekle_guncelle.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Firmaislem_kayitsil.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Giris.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Il_Ilce.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Islem_goster.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.MusteriHizmetleriPanel.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitekle_guncelle.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitbul.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Musteriislem_kayitsil.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Müsteri_rapor.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Parca.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.ParcaStok_rapor.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Personel_rapor.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Personelİslemleri.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Properties.Resources.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.RAPORLAR.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_detayli_arama.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_durum_kontrol.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_Islem.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_kayitbul.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.Servis_rapor.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.SV_musform.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.YetkiKisitla.resources
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.csproj.GenerateResource.Cache
+D:\Ders Notları\2016-2017 3.Sınıf\VTYS\BMW Proje\vtys son halii\BMW-Son Hali\BMW\BMW\obj\Debug\BMW.exe.licenses

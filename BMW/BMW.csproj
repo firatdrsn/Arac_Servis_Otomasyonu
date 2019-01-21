@@ -1,0 +1,562 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C2F5250-204E-4DD6-8C33-51A4F67655CD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BMW</RootNamespace>
+    <AssemblyName>BMW</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <WcfConfigValidationEnabled>True</WcfConfigValidationEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v15.1.UI, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v15.1.Drawing, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Spreadsheet.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.1.UI, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v15.1.Win, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPdfViewer.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPanel.Designer.cs">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnaMenü.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenü.Designer.cs">
+      <DependentUpon>AnaMenü.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracModell_rapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracModell_rapor.Designer.cs">
+      <DependentUpon>AracModell_rapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracModelrapor.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AracModelrapor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AracSatisRaporu.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AracSatisRaporu.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AracSatis_rapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracSatis_rapor.Designer.cs">
+      <DependentUpon>AracSatis_rapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracSerileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracSerileri.Designer.cs">
+      <DependentUpon>AracSerileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracStok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracStok.Designer.cs">
+      <DependentUpon>AracStok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aracstokrapor.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>aracstokrapor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Aracstok_rapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aracstok_rapor.Designer.cs">
+      <DependentUpon>Aracstok_rapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arac_Model.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arac_Model.Designer.cs">
+      <DependentUpon>Arac_Model.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arac_Motor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arac_Motor.Designer.cs">
+      <DependentUpon>Arac_Motor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arac_Satis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arac_Satis.Designer.cs">
+      <DependentUpon>Arac_Satis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arac_satis_kayitbul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arac_satis_kayitbul.Designer.cs">
+      <DependentUpon>Arac_satis_kayitbul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ASmodel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ASmodel.Designer.cs">
+      <DependentUpon>ASmodel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="A_Kullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="A_Kullanici.Designer.cs">
+      <DependentUpon>A_Kullanici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Backup.Designer.cs">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BölümEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BölümEkle.Designer.cs">
+      <DependentUpon>BölümEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DonanimPaket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonanimPaket.Designer.cs">
+      <DependentUpon>DonanimPaket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Firmaislem_kayitbul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Firmaislem_kayitbul.Designer.cs">
+      <DependentUpon>Firmaislem_kayitbul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Firmaislem_kayitekle_guncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Firmaislem_kayitekle_guncelle.Designer.cs">
+      <DependentUpon>Firmaislem_kayitekle_guncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Firmaislem_kayitsil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Firmaislem_kayitsil.Designer.cs">
+      <DependentUpon>Firmaislem_kayitsil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Il_Ilce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Il_Ilce.Designer.cs">
+      <DependentUpon>Il_Ilce.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Islem_goster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Islem_goster.Designer.cs">
+      <DependentUpon>Islem_goster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriHizmetleriPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriHizmetleriPanel.Designer.cs">
+      <DependentUpon>MusteriHizmetleriPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musteriislem_kayitekle_guncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musteriislem_kayitekle_guncelle.Designer.cs">
+      <DependentUpon>Musteriislem_kayitekle_guncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musteriislem_kayitbul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musteriislem_kayitbul.Designer.cs">
+      <DependentUpon>Musteriislem_kayitbul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musteriislem_kayitsil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musteriislem_kayitsil.Designer.cs">
+      <DependentUpon>Musteriislem_kayitsil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriRapor.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MusteriRapor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Müsteri_rapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Müsteri_rapor.Designer.cs">
+      <DependentUpon>Müsteri_rapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parca.Designer.cs">
+      <DependentUpon>Parca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParcaStokRapor.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ParcaStokRapor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ParcaStok_rapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParcaStok_rapor.Designer.cs">
+      <DependentUpon>ParcaStok_rapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personel_rapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personel_rapor.Designer.cs">
+      <DependentUpon>Personel_rapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personel_repor.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>personel_repor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Personelİslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personelİslemleri.Designer.cs">
+      <DependentUpon>Personelİslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RAPORLAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RAPORLAR.Designer.cs">
+      <DependentUpon>RAPORLAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servis.Designer.cs">
+      <DependentUpon>Servis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServisRapor.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ServisRapor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Servis_detayli_arama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servis_detayli_arama.Designer.cs">
+      <DependentUpon>Servis_detayli_arama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servis_durum_kontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servis_durum_kontrol.Designer.cs">
+      <DependentUpon>Servis_durum_kontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servis_Islem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servis_Islem.Designer.cs">
+      <DependentUpon>Servis_Islem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servis_kayitbul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servis_kayitbul.Designer.cs">
+      <DependentUpon>Servis_kayitbul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servis_rapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servis_rapor.Designer.cs">
+      <DependentUpon>Servis_rapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SQL.cs" />
+    <Compile Include="SV_musform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SV_musform.Designer.cs">
+      <DependentUpon>SV_musform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YetkiKisitla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YetkiKisitla.Designer.cs">
+      <DependentUpon>YetkiKisitla.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminPanel.resx">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnaMenü.resx">
+      <DependentUpon>AnaMenü.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracModell_rapor.resx">
+      <DependentUpon>AracModell_rapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracModelrapor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AracModelrapor.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracSatisRaporu.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AracSatisRaporu.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracSatis_rapor.resx">
+      <DependentUpon>AracSatis_rapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracSerileri.resx">
+      <DependentUpon>AracSerileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracStok.resx">
+      <DependentUpon>AracStok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aracstokrapor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>aracstokrapor.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aracstok_rapor.resx">
+      <DependentUpon>Aracstok_rapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arac_Model.resx">
+      <DependentUpon>Arac_Model.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arac_Motor.resx">
+      <DependentUpon>Arac_Motor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arac_Satis.resx">
+      <DependentUpon>Arac_Satis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arac_satis_kayitbul.resx">
+      <DependentUpon>Arac_satis_kayitbul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ASmodel.resx">
+      <DependentUpon>ASmodel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="A_Kullanici.resx">
+      <DependentUpon>A_Kullanici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Backup.resx">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BölümEkle.resx">
+      <DependentUpon>BölümEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonanimPaket.resx">
+      <DependentUpon>DonanimPaket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Firmaislem_kayitbul.resx">
+      <DependentUpon>Firmaislem_kayitbul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Firmaislem_kayitekle_guncelle.resx">
+      <DependentUpon>Firmaislem_kayitekle_guncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Firmaislem_kayitsil.resx">
+      <DependentUpon>Firmaislem_kayitsil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Il_Ilce.resx">
+      <DependentUpon>Il_Ilce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Islem_goster.resx">
+      <DependentUpon>Islem_goster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriHizmetleriPanel.resx">
+      <DependentUpon>MusteriHizmetleriPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musteriislem_kayitekle_guncelle.resx">
+      <DependentUpon>Musteriislem_kayitekle_guncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musteriislem_kayitbul.resx">
+      <DependentUpon>Musteriislem_kayitbul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musteriislem_kayitsil.resx">
+      <DependentUpon>Musteriislem_kayitsil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriRapor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MusteriRapor.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Müsteri_rapor.resx">
+      <DependentUpon>Müsteri_rapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parca.resx">
+      <DependentUpon>Parca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParcaStokRapor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ParcaStokRapor.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParcaStok_rapor.resx">
+      <DependentUpon>ParcaStok_rapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personel_rapor.resx">
+      <DependentUpon>Personel_rapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personel_repor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>personel_repor.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personelİslemleri.resx">
+      <DependentUpon>Personelİslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RAPORLAR.resx">
+      <DependentUpon>RAPORLAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servis.resx">
+      <DependentUpon>Servis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServisRapor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ServisRapor.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servis_detayli_arama.resx">
+      <DependentUpon>Servis_detayli_arama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servis_durum_kontrol.resx">
+      <DependentUpon>Servis_durum_kontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servis_Islem.resx">
+      <DependentUpon>Servis_Islem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servis_kayitbul.resx">
+      <DependentUpon>Servis_kayitbul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servis_rapor.resx">
+      <DependentUpon>Servis_rapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SV_musform.resx">
+      <DependentUpon>SV_musform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YetkiKisitla.resx">
+      <DependentUpon>YetkiKisitla.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resimler\Durum_kirmizi.png" />
+    <Content Include="Resimler\Giris_Buton.png" />
+    <Content Include="Resimler\Giris_Plan.png" />
+    <Content Include="Resimler\Kapat_Icon.png" />
+    <Content Include="Resimler\kulad_icon.png" />
+    <Content Include="Resimler\KulGiris_Icon.png" />
+    <Content Include="Resimler\sifre_icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
